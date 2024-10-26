@@ -1,6 +1,6 @@
 # React + Vite
 # Gemini Clone
-Generative AI App using Google Gemini API with React JS. Create AI App  like Google Gemini or ChatGPT.
+Generative AI App using Google Gemini API with React JS. Create AI App  like Google Gemini https://gemini-clone-hdin.vercel.app/ or ChatGPT.
 
 # How to Setup & Run this Project
  ❖ Install NodeJs ( Ignore If Already Installed)
