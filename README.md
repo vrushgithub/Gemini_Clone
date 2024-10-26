@@ -25,7 +25,7 @@ Generative AI App using Google Gemini API with React JS. Create AI App  like Goo
        Installation to be completed (requires Internet).
        After Installation You will See ‘node_modules’ Folder in the Sidebar.
 
-     4. Create Your API Key From (https://ai.google.dev/).
+     4. Create Your API Key From website i.e https://ai.google.dev/
      
      5. Open gemini.js file from src/config folder then paste the api key in that file.
 
